@@ -776,7 +776,7 @@ controlarAcceso();*/
 
 
 // Función para calcular el puntaje basado en la distancia
-function calcularPuntaje(distancia) {
+/*function calcularPuntaje(distancia) {
     if (distancia === 0) {
         return 500;
     } else if (distancia <= 10) {
@@ -827,5 +827,5 @@ function tiroAlBlanco() {
 }
 
 // Ejecutar el juego
-tiroAlBlanco();
+tiroAlBlanco();*/
 
